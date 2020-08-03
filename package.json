@@ -1,0 +1,19 @@
+{
+  "name": "dom-event-bus",
+  "version": "1.0.0-alpha",
+  "description": "DOM Event Message bus to decouple applications on the FE.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernstmielmann/dom-event-bus.git"
+  },
+  "author": "Ernst Mielmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ernstmielmann/dom-event-bus/issues"
+  },
+  "homepage": "https://github.com/ernstmielmann/dom-event-bus#readme"
+}
